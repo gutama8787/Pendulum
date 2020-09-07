@@ -1,7 +1,7 @@
 # Pendulum
 Simple Pendulum Simulation.
 
-Built with JavaFx 
+Built with JavaFx. <br>
 animation update is created using Javafx Timeline object
 ```
 Timeline animation = new Timeline(new KeyFrame(Duration.millis(10), e -> update()));
